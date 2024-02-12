@@ -27,13 +27,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Java, JavaScript, Php, Html, Css, Bootstrap, Mysql, Nodejs, MongoDB...**
+- 🔭 I’m currently working on **Java, JavaScript, Php, Html, Css, Bootstrap, Mysql, Angular, Nodejs, MongoDB...**
 
 - 🌱 I’m currently learning **different programming languages.**
 
 - ☁️ I've keen interest in cloud computing. So,I want to learn **AWS**
 
-- 💬 Ask me about **Java, Html, css, Mysql..**
+- 💬 Ask me about **Java, Html, Css, Mysql...**
 
 - 📫 Feel free to reach me out **inma.rivera94@gmail.com**
 
