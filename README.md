@@ -22,17 +22,17 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Front-End Developer | Cybersecurity</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Java, JavaScript, Php, Html, Css, Bootstrap, Mysql, Angular, Nodejs, MongoDB...**
+- 🔭 I’m currently working on **Java, JavaScript, Php, Html, Css, Bootstrap, Mysql, Angular, Nodejs, MongoDB...** to improve my skills
 
-- 🌱 I’m currently learning **different programming languages.**
+- 🌱 I’m currently learning **Cybersecurity with python, pentesting, Blue Team and Red Team....**
 
-- ☁️ I've keen interest in cloud computing. So,I want to learn **AWS**
+- ☁️ I've keen interest in cloud computing and IA. So,I want to learn **AWS, IA and more about Cybersecurity**
 
 - 💬 Ask me about **Java, Html, Css, Mysql...**
 
